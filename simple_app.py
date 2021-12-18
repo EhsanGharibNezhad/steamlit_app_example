@@ -1,5 +1,6 @@
 import pickle
 import streamlit as st
+import sklearn
 
 st.title("Which author do you write like?")
 
